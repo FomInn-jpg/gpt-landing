@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GPT-Ассистент для Авито</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    .container { max-width: 800px; margin: auto; padding: 40px 20px; }
+    h1 { font-size: 2.2em; color: #000; }
+    h2 { margin-top: 30px; color: #444; }
+    p { line-height: 1.6; margin-bottom: 15px; }
+    .highlight { background: #e6f4ea; padding: 10px; border-left: 4px solid #4caf50; margin: 20px 0; }
+    .button { display: inline-block; padding: 12px 24px; background: #4caf50; color: #fff; text-decoration: none; border-radius: 6px; margin-top: 20px; font-weight: bold; }
+    footer { margin-top: 40px; font-size: 0.9em; color: #777; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ваш персональный GPT-ассистент для Авито</h1>
+    <p>Здравствуйте! Меня зовут Инна Фоминых, и я создаю умных GPT-ассистентов, которые:</p>
+    <ul>
+      <li>знают ваш ассортимент и цены</li>
+      <li>отвечают клиентам как живой человек</li>
+      <li>работают 24/7, даже когда вы спите</li>
+      <li>обучены под ваш стиль и задачи</li>
+    </ul>
+
+    <div class="highlight">
+      <strong>Проблема:</strong> теряете клиентов, если не ответили вовремя? <br>
+      <strong>Решение:</strong> GPT-ассистент отвечает за вас — быстро, грамотно и вежливо.
+    </div>
+
+    <h2>Попробуйте в деле</h2>
+    <p>Предлагаю начать с тест-драйва — всего <strong>5 000 ₽ за 7 дней</strong>. Вы увидите, как растёт конверсия и сколько времени экономит ассистент.</p>
+
+    <a href="#" class="button">Попробовать за 5 000 ₽</a>
+
+    <h2>Что внутри:</h2>
+    <ul>
+      <li>Обучение на ваших товарах и стиле общения</li>
+      <li>Интеграция с Авито (без сложной настройки)</li>
+      <li>Техподдержка и обновления 2 месяца</li>
+    </ul>
+
+    <h2>Как отвечает ассистент</h2>
+    <div class="highlight">
+      <p><strong>Покупатель:</strong> А размер S есть?<br>
+      <strong>Ассистент:</strong> Здравствуйте! Да, есть. Подскажите, доставка или самовывоз удобнее?</p>
+    </div>
+
+    <footer>
+      Инна Фоминых | GPT-решения для Авито | Telegram: @Fominn75
+    </footer>
+  </div>
+</body>
+</html>
